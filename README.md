@@ -16,6 +16,7 @@
 ## My Skill Set  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.arubanetworks.com/br/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Aruba_Networks_logo.svg" alt="Aruba" height="50" /></a> 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -51,9 +52,11 @@
 <a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
+<a href="https://www.iperiusbackup.com/" target="_blank"><img style="margin: 10px" src="https://www.iperiusbackup.com/favicon.ico" alt="Iperius Backup" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.veeam.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Veeam_logo.svg" alt="Veeam" height="50" /></a> 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -75,6 +78,9 @@
 <a href="https://www.splunk.com/" target="_blank"><img style="margin: 10px" src="https://www.splunk.com/content/dam/splunk2/images/icons/favicons/favicon-196x196.png" alt="Splunk" height="50" /></a>
 <a href="https://grafana.com/oss/loki/" target="_blank"><img style="margin: 10px" src="https://grafana.com/static/img/logos/logo-loki.svg" alt="Grafana Loki" height="50" /></a>
 <a href="https://www.coreldraw.com/" target="_blank"><img style="margin: 10px" src="https://www.coreldraw.com/static/cdgs/images/favicon.ico" alt="CorelDraw" height="50" /></a> 
+<a href="https://www.veritas.com/pt/br" target="_blank"><img style="margin: 10px" src="https://www.veritas.com/etc.clientlibs/www/clientlibs/clientlib-site/resources/images/favicon/apple-icon-57x57.png" alt="Veritas" height="50" /></a> 
+<a href="https://www.microsoft.com/pt-br/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/530/851/png-transparent-windows-active-directory-logo-active-directory-federation-services-microsoft-ado-net-data-provider-multi-factor-authentication-active-directory-blue-angle-text-thumbnail.png" alt="Active Directory" height="50" /></a> 
+<a href="https://www.fortinet.com/" target="_blank"><img style="margin: 10px" src="https://www.fortinet.com/etc/designs/fortinet/favicon.ico?v=1" alt="Fortinet" height="50" /></a> 
 </div>  
 
 <br/>  
