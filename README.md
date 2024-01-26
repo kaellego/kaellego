@@ -73,7 +73,8 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://www.splunk.com/" target="_blank"><img style="margin: 10px" src="https://www.splunk.com/content/dam/splunk2/images/icons/favicons/favicon-196x196.png" alt="Splunk" height="50" /></a>
- <a href="https://grafana.com/oss/loki/" target="_blank"><img style="margin: 10px" src="https://grafana.com/static/img/logos/logo-loki.svg" alt="Grafana Loki" height="50" /></a> 
+<a href="https://grafana.com/oss/loki/" target="_blank"><img style="margin: 10px" src="https://grafana.com/static/img/logos/logo-loki.svg" alt="Grafana Loki" height="50" /></a>
+<a href="https://www.coreldraw.com/" target="_blank"><img style="margin: 10px" src="https://www.coreldraw.com/static/cdgs/images/favicon.ico" alt="CorelDraw" height="50" /></a> 
 </div>  
 
 <br/>  
