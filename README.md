@@ -1,7 +1,7 @@
 ### <div align="center">I'm Well, Infrastructure and Cybersecurity Specialist 🛡️💻</div>  
   
 
-- 🔭 I’m currently working on [ ??? ]([https://www.primetek-its.com.br/sobre.html](https://www.sicoob.com.br/web/sicooblojicred/para-voce))  
+- 🔭 I’m currently working on [ Agir ]([https://www.agirsaude.org.br/](https://www.sicoob.com.br/web/sicooblojicred/para-voce))  
   
 
 - 🌱 I’m currently learning Hyperconverged Infrastructure and Hacking  
@@ -83,6 +83,8 @@
 <a href="https://www.fortinet.com/" target="_blank"><img style="margin: 10px" src="https://www.fortinet.com/etc/designs/fortinet/favicon.ico?v=1" alt="Fortinet" height="50" /></a> 
 </div>  
 
+<br /><br /><br />
+<div align="center"><a href="https://tryhackme.com/p/kaellego" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/kaellego.png" alt="tryhackme.com/p/kaellego" style="max-width: 200%;"/></a></div>
 <br/>  
 
 
@@ -139,5 +141,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
